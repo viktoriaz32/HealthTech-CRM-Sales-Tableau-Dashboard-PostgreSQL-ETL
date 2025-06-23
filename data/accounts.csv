@@ -1,0 +1,201 @@
+account_id,name,type,region,annual_revenue,created_date
+A0001,"Mcclure, Ward and Lee Health",Clinic,Northeast,22.26,2022-10-09
+A0002,Doyle Ltd Health,Hospital,Midwest,78370000.0,2022-04-15
+A0003,"Mcclain, Miller and Henderson Health",Clinic,Northeast,299340000.0,2022-02-02
+A0004,Davis and Sons Health,Hospital,Northeast,117130000.0,2023-06-02
+A0005,"Guzman, Hoffman and Baldwin Health",Clinic,Northeast,285010000.0,2023-10-28
+A0006,"Gardner, Robinson and Lawrence Health",Clinic,West,118020000.0,2023-08-27
+A0007,Blake and Sons Health,Health System,Northeast,381820000.0,2022-06-13
+A0008,"Henderson, Ramirez and Lewis Health",Clinic,West,176720000.0,2022-06-09
+A0009,Garcia-James Health,Hospital,South,20.0,2023-01-25
+A0010,Abbott-Munoz Health,Hospital,South,425270000.0,2023-09-11
+A0011,Blair PLC Health,Health System,Northeast  ,367570000.0,2023-07-04
+A0012,Dudley Group Health,Hospital,West,48610000.0,2022-10-28
+A0013,Arnold Ltd Health,Clinic,South,292900000.0,2023-12-23
+A0014,"Stanley, Tucker and Lee Health",Hospital,Northeast,334020000.0,2022-10-24
+A0015,Williams and Sons Health,Hospital,Midwest,434580000.0,2023-01-25
+A0016,Galloway-Wyatt Health,Health System, West ,321.49,2023-01-09
+A0017,James Group Health,Hospital,South,184080000.0,2023-11-18
+A0018,"Flowers, Martin and Kelly Health",Health System,Northeast,308470000.0,2022-06-25
+A0019,"Adams, Zuniga and Wong Health",Clinic,Midwest  ,90070000.0,2023-01-24
+A0020,"Reid, Ferguson and Sanchez Health",Health System,Midwest,345.46,2022-02-27
+A0021,Gray-Mayo Health,Hospital,Northeast  ,404.47,2023-02-15
+A0022,"Watts, Robinson and Nguyen Health",Health System,Northeast,113380000.0,2023-08-04
+A0023,"Bentley, Byrd and Orr Health",Clinic,South,114190000.0,2023-05-27
+A0024,Morales-Jones Health,Health System,West,80010000.0,2022-05-23
+A0025,"Walter, Edwards and Rios Health",Hospital,South,376040000.0,2023-03-15
+A0026,Wilkerson-Day Health,Clinic,West,187.38,2022-05-22
+A0027,Baker and Sons Health,Clinic,West,54550000.0,2022-02-18
+A0028,"Hoffman, Baker and Richards Health",Hospital,Midwest,317450000.0,2023-11-28
+A0029,"Ross, Robinson and Bright Health",Health System,Northeast,198540000.0,2023-09-03
+A0030,Diaz Inc Health,Health System,South,485830000.0,2022-01-12
+A0031,Burton Ltd Health,Clinic,Northeast,344040000.0,2023-07-04
+A0032,Carlson-Cruz Health,Health System,South  ,64660000.0,2023-03-22
+A0033,"Ferrell, Rice and Maddox Health",Hospital,West,11590000.0,2022-09-27
+A0034,Frazier Inc Health,Clinic,Midwest,258760000.0,2022-04-19
+A0035,"Dyer, Potter and Mack Health",Clinic,South,422420000.0,2023-06-04
+A0036,Rodriguez-Graham Health,Clinic,Midwest,84890000.0,2022-06-15
+A0037,Smith-Bowen Health,Clinic, Northeast ,303480000.0,2023-05-16
+A0038,"Baker, Mason and White Health",Hospital,Northeast,465260000.0,2022-11-11
+A0039,Harrell LLC Health,Hospital, Northeast ,128030000.0,2023-08-04
+A0040,"Romero, Gonzalez and Brooks Health",Hospital,Northeast,368630000.0,2022-03-12
+A0041,Ryan PLC Health,Clinic,Midwest,72.91,2023-05-02
+A0042,George Group Health,Clinic,Midwest,139880000.0,2023-09-14
+A0043,Rodriguez LLC Health,Health System, Midwest ,465170000.0,2023-12-08
+A0044,Allen-Allen Health,Hospital,South,205510000.0,2023-11-19
+A0045,"Arroyo, Miller and Tucker Health",Clinic,South,224.67,2023-06-14
+A0046,Spence PLC Health,Health System,Northeast,131470000.0,2022-03-07
+A0047,Anderson Group Health,Health System,Northeast,298270000.0,2022-08-24
+A0048,"Martin, Rose and Obrien Health",Clinic,Midwest,13520000.0,2023-12-26
+A0049,"Rodriguez, Brennan and Garrison Health",Clinic,Northeast,122180000.0,2022-02-02
+A0050,"Harris, Collins and Carney Health",Health System,Northeast,261940000.0,2022-10-13
+A0051,"Brooks, Lam and Hayes Health",Clinic,West,114980000.0,2022-05-16
+A0052,Walker LLC Health,Clinic,West,129070000.0,2023-04-30
+A0053,Chapman and Sons Health,Health System,Midwest,56220000.0,2023-11-06
+A0054,"Robinson, Jones and Welch Health",Health System,South,217.55,2023-04-24
+A0055,Jones Inc Health,Clinic,Northeast,339.95,2023-10-24
+A0056,Jones-Young Health,Hospital,Northeast,207280000.0,2022-12-14
+A0057,"Washington, Ryan and Cummings Health",Hospital,Midwest,103880000.0,2023-07-04
+A0058,"Johnston, Sanchez and Kennedy Health",Health System,Midwest  ,216720000.0,2022-10-13
+A0059,Lee-Davis Health,Health System,Midwest,438500000.0,2022-03-19
+A0060,Gomez-Jenkins Health,Health System,Northeast,100.0,2023-07-08
+A0061,"Brown, Valdez and Lucas Health",Hospital,Northeast,463920000.0,2022-08-31
+A0062,Powell LLC Health,Hospital,West,247.96,2022-08-07
+A0063,Wright and Sons Health,Health System,Northeast,90670000.0,2022-01-03
+A0064,"West, Henderson and Ramirez Health",Health System,South,463990000.0,2023-04-11
+A0065,Russell-Daniels Health,Health System,West,351330000.0,2023-07-24
+A0066,Morton-Chase Health,Clinic,West,85850000.0,2022-10-31
+A0067,Williams PLC Health,Hospital,Northeast,293800000.0,2023-07-10
+A0068,Novak and Sons Health,Hospital,South,38.01,2023-08-22
+A0069,Russell Group Health,Health System, Midwest ,37870000.0,2023-06-05
+A0070,Hancock Inc Health,Hospital,Midwest  ,43580000.0,2022-03-11
+A0071,Gray Group Health,Clinic,Midwest,207850000.0,2023-08-07
+A0072,House-Glover Health,Hospital,Northeast,313500000.0,2023-03-06
+A0073,Henderson-Bernard Health,Clinic,South,5.0,2022-07-29
+A0074,"Stanley, Tucker and Lee Health",Clinic, South ,100.0,2023-02-10
+A0075,Novak PLC Health,Hospital,South,5.0,2022-03-16
+A0076,"Daniels, Adkins and Brown Health",Hospital,West,314370000.0,2023-07-31
+A0077,"Woods, Calhoun and Schmidt Health",Hospital,Northeast,273440000.0,2023-06-03
+A0078,Yu Inc Health,Health System, Midwest ,467300000.0,2022-03-12
+A0079,Jones Inc Health,Hospital, South ,149640000.0,2023-03-25
+A0080,"Hensley, Powell and David Health",Clinic,South,309720000.0,2023-11-01
+A0081,"Garcia, Humphrey and Baker Health",Clinic,Northeast,337250000.0,2023-07-22
+A0082,Sandoval-Cunningham Health,Health System,Northeast,470080000.0,2022-05-18
+A0083,Reid-Poole Health,Health System,Northeast  ,445960000.0,2023-07-21
+A0084,"Edwards, Baker and Anderson Health",Hospital,South,148060000.0,2022-08-04
+A0085,"Evans, Stewart and Walton Health",Clinic,South,109760000.0,2023-10-12
+A0086,Smith PLC Health,Health System,West,133050000.00000001,2022-02-22
+A0087,"Ferrell, Jones and Lewis Health",Hospital,West,416380000.0,2022-02-15
+A0088,Anderson-Bailey Health,Hospital,South,387850000.0,2023-10-15
+A0089,Suarez LLC Health,Health System,Midwest,373200000.0,2023-07-19
+A0090,Moore-Bass Health,Clinic,West,284840000.0,2022-04-25
+A0091,"Turner, Riggs and Roman Health",Hospital,Midwest,277340000.0,2023-01-14
+A0092,"Smith, Montoya and Evans Health",Clinic,Midwest,220600000.0,2022-02-12
+A0093,"Garcia, Humphrey and Baker Health",Health System,South,450500000.0,2022-02-10
+A0094,Newton and Sons Health,Health System,Midwest,344210000.0,2023-11-14
+A0095,Campbell-Clark Health,Hospital,South,392260000.0,2023-02-21
+A0096,Harris-Walters Health,Clinic,Midwest,463620000.0,2022-08-31
+A0097,Wagner-King Health,Hospital,Midwest,441890000.0,2022-01-26
+A0098,Davis Group Health,Hospital,South,393370000.0,2023-02-26
+A0099,Williams-Cook Health,Clinic,Midwest,140730000.0,2023-12-20
+A0100,Walsh LLC Health,Hospital,West,437360000.0,2023-04-27
+A0101,Figueroa PLC Health,Hospital,Midwest,410130000.0,2023-04-17
+A0102,"Patterson, Smith and Jones Health",Health System,South,412060000.0,2022-08-22
+A0103,"Mckee, Gardner and Davenport Health",Hospital,Northeast,333420000.0,2023-02-13
+A0104,Gonzalez Group Health,Health System,South  ,433530000.0,2022-10-13
+A0105,Nolan-Flynn Health,Health System,West,342.96,2023-07-04
+A0106,Frazier Inc Health,Health System,Northeast,66519999.99999999,2022-09-25
+A0107,"Wright, Garcia and Deleon Health",Hospital,South,28750000.0,2023-09-03
+A0108,Dickson-Brady Health,Health System,South,366990000.0,2022-11-18
+A0109,Hancock and Sons Health,Health System,Northeast,198750000.0,2023-08-14
+A0110,Johnson-Doyle Health,Hospital,South,31750000.0,2023-03-23
+A0111,Patton-Jenkins Health,Hospital, Midwest ,188470000.0,2022-03-13
+A0112,"Shields, Cochran and Adams Health",Clinic,South,315350000.0,2023-11-11
+A0113,"Rodriguez, Brennan and Garrison Health",Hospital,South  ,258490000.0,2023-11-14
+A0114,Gonzalez Group Health,Health System,South,207180000.0,2022-10-30
+A0115,Torres-Pope Health,Clinic,Midwest,104000000.0,2023-11-12
+A0116,Walker Ltd Health,Health System,Midwest,311.6,2022-11-05
+A0117,Ross LLC Health,Health System,Northeast,5.0,2022-08-04
+A0118,Rasmussen LLC Health,Health System,South,237840000.0,2023-03-29
+A0119,Hernandez Inc Health,Clinic,Midwest,260480000.00000003,2022-06-23
+A0120,"Rivera, Johnson and Wiley Health",Clinic, Northeast ,149060000.0,2023-11-11
+A0121,White-Estes Health,Clinic,South,100.0,2022-08-29
+A0122,Johnson-Carlson Health,Clinic,South,120070000.0,2022-07-23
+A0123,Chandler-Edwards Health,Hospital,Northeast,32640000.0,2023-05-02
+A0124,"Joyce, Wilson and Lam Health",Clinic,Northeast,233150000.0,2023-10-07
+A0125,Scott Ltd Health,Clinic,Midwest,361990000.0,2023-01-29
+A0126,Smith-Frost Health,Health System,West,129550000.00000001,2023-11-03
+A0127,"Mcdaniel, Bentley and Mclaughlin Health",Clinic,Northeast  ,447400000.0,2022-04-20
+A0128,Diaz Inc Health,Health System,Midwest,96180000.0,2023-12-14
+A0129,"Mccall, Hanson and Alvarado Health",Clinic,West  ,34610000.0,2022-09-13
+A0130,Cortez LLC Health,Hospital,West,75340000.0,2023-04-21
+A0131,"Parker, Ortiz and Powell Health",Clinic,South,475520000.0,2023-03-30
+A0132,"Hernandez, Thompson and Boyd Health",Clinic,West,416980000.0,2023-07-16
+A0133,"Bentley, Byrd and Orr Health",Health System,Midwest,374390000.0,2023-05-02
+A0134,"Carroll, Sullivan and Bass Health",Health System,South,378370000.0,2023-10-15
+A0135,Mitchell-Jordan Health,Health System,West,317110000.0,2022-10-09
+A0136,"Lawson, Morris and Ramos Health",Health System,Northeast,359640000.0,2022-08-29
+A0137,"Lewis, Kennedy and Santana Health",Health System,South,166660000.0,2023-07-08
+A0138,"Jackson, Miller and Robertson Health",Hospital,Midwest,83910000.0,2023-01-28
+A0139,Russell Group Health,Clinic,Midwest  ,356150000.0,2022-03-07
+A0140,Chambers and Sons Health,Health System, West ,172130000.0,2023-04-23
+A0141,Hernandez Inc Health,Health System,Northeast,111350000.0,2023-03-07
+A0142,Riggs PLC Health,Health System,Northeast,429.8,2023-08-13
+A0143,Gibson Ltd Health,Health System,West,12890000.0,2022-12-27
+A0144,"Lee, Horton and Snyder Health",Health System,West,428190000.0,2023-03-06
+A0145,Hernandez Ltd Health,Clinic,Midwest,249230000.0,2022-10-07
+A0146,Stafford Inc Health,Health System,West  ,24220000.0,2022-12-11
+A0147,Robinson-Brock Health,Clinic,West,364850000.0,2023-04-24
+A0148,"Holmes, Williams and Wright Health",Hospital,Northeast,454400000.0,2023-08-30
+A0149,Bryant Group Health,Clinic,Northeast,51130000.0,2023-03-15
+A0150,"Schmidt, Hansen and Stewart Health",Hospital,West,99050000.0,2022-09-24
+A0151,Salazar-Ball Health,Health System,South,113710000.0,2022-12-01
+A0152,"Simmons, Meadows and Griffin Health",Health System,West,146350000.0,2023-03-08
+A0153,Manning Group Health,Health System, Northeast ,5.0,2023-07-07
+A0154,Green-Wright Health,Hospital, South ,119870000.0,2022-03-12
+A0155,"Ramirez, Strickland and Washington Health",Clinic,Northeast,379570000.0,2022-09-11
+A0156,Hill Inc Health,Hospital,Northeast,314450000.0,2022-09-02
+A0157,"Mitchell, Nelson and Flores Health",Hospital,West,338.03,2023-08-01
+A0158,"Miller, Hernandez and Reyes Health",Hospital,West,352740000.0,2023-01-13
+A0159,Mccarthy Inc Health,Hospital,Northeast,391120000.0,2022-06-17
+A0160,Russell-Daniels Health,Health System,Northeast,293560000.0,2022-11-16
+A0161,Brown-Wall Health,Clinic,West,204.36,2022-07-23
+A0162,Stein-Silva Health,Hospital,Midwest,59930000.0,2022-11-05
+A0163,"Smith, Gilmore and Johnston Health",Clinic,Northeast,400150000.0,2023-08-03
+A0164,Smith-Bell Health,Hospital,South,271050000.0,2023-11-09
+A0165,Castaneda-Ashley Health,Health System,Northeast,257920000.00000003,2022-12-16
+A0166,Medina-Navarro Health,Hospital,West  ,412940000.0,2022-04-19
+A0167,"Hurst, Freeman and Nelson Health",Health System,South,321440000.0,2023-04-16
+A0168,Johnson-Rogers Health,Clinic,Midwest,223390000.0,2023-06-19
+A0169,Chapman and Sons Health,Clinic,South,311800000.0,2023-07-06
+A0170,Hooper PLC Health,Health System,West,223.43,2023-08-30
+A0171,Meadows PLC Health,Health System,South,427340000.0,2022-03-30
+A0172,"Alvarado, Miller and Patterson Health",Health System,West,129490000.00000001,2023-04-21
+A0173,White-Green Health,Clinic,West,174830000.0,2023-05-22
+A0174,Lewis-Murphy Health,Health System,Midwest,248900000.0,2022-12-30
+A0175,Ramirez-Bean Health,Health System,South,147030000.0,2023-09-03
+A0176,King-Miller Health,Clinic,South,282340000.0,2023-06-14
+A0177,Curry Inc Health,Hospital,Northeast  ,128.26,2023-02-21
+A0178,Walker-Jones Health,Health System,Midwest,348400000.0,2023-10-24
+A0179,"Williams, Johnson and Wright Health",Clinic,West,229610000.0,2022-01-18
+A0180,Howell and Sons Health,Hospital, South ,20.0,2023-12-10
+A0181,Wells Inc Health,Hospital,South,100.0,2023-01-13
+A0182,"Gould, Marshall and Scott Health",Health System,South,218500000.0,2023-07-18
+A0183,Jackson-Lawson Health,Health System,South,354400000.0,2022-10-05
+A0184,"Higgins, Strickland and Martin Health",Health System,South,122960000.0,2022-07-17
+A0185,Rodriguez-Johnson Health,Health System,Northeast,374010000.0,2023-12-08
+A0186,Johnston-Odonnell Health,Hospital,Midwest,116030000.0,2023-05-11
+A0187,Sanders-Espinoza Health,Health System,South  ,490450000.0,2022-07-18
+A0188,Vargas Ltd Health,Health System,Midwest,186830000.0,2022-11-06
+A0189,Garcia LLC Health,Hospital,Midwest,144410000.0,2022-02-25
+A0190,"Burke, Martinez and Riggs Health",Clinic,South,351.73,2022-05-10
+A0191,Reed Group Health,Clinic,West,60270000.0,2022-01-13
+A0192,"Wood, Hunter and Peterson Health",Clinic,South,240000000.0,2023-03-28
+A0193,Short-Garcia Health,Health System,Midwest,483090000.0,2022-09-16
+A0194,Reid-Poole Health,Health System,Northeast,412840000.0,2023-02-15
+A0195,"Hernandez, Thompson and Boyd Health",Health System,Northeast,292740000.0,2023-12-04
+A0196,"Nelson, Morton and Medina Health",Hospital,Midwest,83.11,2023-07-31
+A0197,Marshall-Petersen Health,Health System,Northeast,497020000.0,2022-05-02
+A0198,Brown-Wall Health,Clinic,West,307100000.0,2023-09-26
+A0199,Ramirez Group Health,Hospital,West,230750000.0,2023-03-30
+A0200,Christensen PLC Health,Health System,West,159640000.0,2023-09-28
