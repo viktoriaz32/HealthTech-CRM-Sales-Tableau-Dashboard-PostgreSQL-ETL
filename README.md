@@ -11,11 +11,16 @@ All data in this dataset is fictional and does not represent any real persons, i
 
 The dataset contains the following tables:
 
-`accounts`: account_id, name, type, region, annual_revenue, created_date 
+`accounts`: account_id, name, type, region, annual_revenue, created_date
+
 `activities`: activity_id, opp_id, type, rep_id timestamp, duration_min
+
 `contacts`: contact_id, name, title, email, account_id
+
 `leads`: lead_id, created_date, lead_source, status, rep_id, converted_account_id
+
 `opportunities`: opp_id, account_id, product, stage, amount, created_date, close_date, status, probability
+
 `sales_reps`: rep_id, name, region, hire_date, quota
 
 Note:
