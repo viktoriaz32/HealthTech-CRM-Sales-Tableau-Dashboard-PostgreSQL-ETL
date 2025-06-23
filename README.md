@@ -8,6 +8,8 @@ Tools: Python, PostgreSQL, Tableau
 # Dataset Description
 
 # Data Cleaning and Preparation with PostgreSQL
+## Data Cleaning
+## Creating Views
 
 # Tableau Data Modeling
 
