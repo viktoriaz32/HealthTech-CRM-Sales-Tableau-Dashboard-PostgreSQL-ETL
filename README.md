@@ -25,8 +25,22 @@ The business questions were asked by the managers and decision-makers of the fic
 * Who are our top-performing accounts?
 
 ## Activity and Engagement Dashboard
+
+* How engaged are our sales teams and accounts?
+* What types of activities are performed most frequently?
+* How does engagement and activity trend over time?
+* How are activities distributed by sales stage?
+* Which sales reps are most active and effective?
+  
 ## Opportunity and Sales Performance Dashboard
 
+* What is the size and status of our current sales pipeline?
+* How is our sales performance trending over time?
+* Which products are selling the most?
+* What is our win rate versus lost opportunities?
+* Where are opportunities concentrated by account?
+* How is the pipeline distributed by sales stage and conversion rates?
+  
 # Dataset Description
 
 All data in this dataset is fictional and does not represent any real persons, institutions, events, or similar entities.
