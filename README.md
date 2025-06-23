@@ -38,7 +38,7 @@ The tables intentionally contain dirty data, which has been cleaned using pgAdmi
 
 # Data Cleaning and Preparation with PostgreSQL
 ## Data Cleaning
-Data cleaning was performed using standard techniques such as identifying and correcting errors, removing duplicates, and standardizing value formats.
+Data cleaning was performed using standard techniques such as identifying and correcting errors, removing duplicates, and standardizing value formats. The data cleaning was performed in pgAdmin using PostgreSQL. The complete script can be viewed here: [Database SQL script](sql/healthtech-cmr-sales_sql.sql)
 
 ## Creating Views
 The robust volume of data made it impossible to merge all the tables -Tableau can handle a maximum of 1 million rows- therefore three views were created in pgAdmin.
