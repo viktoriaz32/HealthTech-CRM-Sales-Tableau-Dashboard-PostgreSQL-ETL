@@ -24,10 +24,11 @@ The dataset contains the following tables:
 `sales_reps`: rep_id, name, region, hire_date, quota
 
 Note:
-The tables intentionally contain dirty data, which has been cleaned using pgAdmin and PostgreSQL. Out of the six tables, only two contain clean data: the `contacts` and `sales_reps` tables.
+The tables intentionally contain dirty data, which has been cleaned using pgAdmin and PostgreSQL. Out of the six tables, only two contain clean data from the Python generation stage: the `contacts` and `sales_reps` tables.
 
 # Data Cleaning and Preparation with PostgreSQL
 ## Data Cleaning
+Data cleaning was performed using standard techniques such as identifying and correcting errors, removing duplicates, and standardizing value formats.
 
 ## Creating Views
 The robust volume of data made it impossible to merge all the tables -Tableau can handle a maximum of 1 million rows- therefore three views were created in pgAdmin.
