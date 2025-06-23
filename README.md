@@ -28,9 +28,70 @@ The tables intentionally contain dirty data, which has been cleaned using pgAdmi
 
 # Data Cleaning and Preparation with PostgreSQL
 ## Data Cleaning
+
 ## Creating Views
+The robust volume of data made it impossible to merge all the tables -Tableau can handle a maximum of 1 million rows- therefore three views were created in pgAdmin.
+### Accounts view
+
+<pre> ```CREATE OR REPLACE VIEW public.accounts_view
+ AS
+ SELECT acc.account_id,
+    acc.name,
+    acc.type,
+    acc.region,
+    acc.annual_revenue,
+    count(DISTINCT o.opp_id) AS num_opportunities,
+    sum(o.amount) AS total_sales
+   FROM accounts acc
+     LEFT JOIN opportunities o ON o.account_id::text = acc.account_id::text
+  GROUP BY acc.account_id, acc.name, acc.type, acc.region, acc.annual_revenue;
+
+ALTER TABLE public.accounts_view
+    OWNER TO postgres; ```</pre>
+
+### Activity view
+
+<pre> ```CREATE OR REPLACE VIEW public.activity_view
+ AS
+ SELECT a.activity_id,
+    a.type AS activity_type,
+    a."timestamp" AS activity_timestamp,
+    a.duration_min,
+    o.opp_id,
+    o.amount,
+    o.stage,
+    sr.name AS rep_name
+   FROM activities a
+     LEFT JOIN opportunities o ON a.opp_id::text = o.opp_id::text
+     LEFT JOIN sales_reps sr ON a.rep_id::text = sr.rep_id::text;
+
+ALTER TABLE public.activity_view
+    OWNER TO postgres;```</pre>
+### Opportunity view
+
+<pre> ```CREATE OR REPLACE VIEW public.opportunity_view
+ AS
+ SELECT o.opp_id,
+    o.account_id,
+    o.product,
+    o.stage,
+    o.amount,
+    o.created_date,
+    o.close_date,
+    o.status,
+    o.probability,
+    acc.name AS account_name,
+    acc.region,
+    acc.annual_revenue
+   FROM opportunities o
+     LEFT JOIN accounts acc ON o.account_id::text = acc.account_id::text;
+
+ALTER TABLE public.opportunity_view
+    OWNER TO postgres;```</pre>
 
 # Tableau Data Modeling
+
+Opportunities&Sales Performance
 
 # Tableau Dashboard Report Previews
 
