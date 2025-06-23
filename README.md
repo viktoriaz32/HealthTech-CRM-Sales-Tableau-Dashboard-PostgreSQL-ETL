@@ -43,7 +43,7 @@ The business questions were asked by the managers and decision-makers of the fic
   
 # Dataset Description
 
-All data in this dataset is fictional and does not represent any real persons, institutions, events, or similar entities.
+Note: All data in this dataset is fictional and does not represent any real persons, institutions, events, or similar entities.
 
 The dataset contains the following tables:
 
