@@ -3,6 +3,16 @@ Data similar to Salesforce CRM formats is generated in Python, cleaned and prepa
 
 Tools: Python, PostgreSQL, Tableau
 
+Links: 
+
+[Dataset](data)
+
+[Python data generation script](python/generate_crm_data.py)
+
+[Database SQL script](sql/healthtech-cmr-sales_sql.sql)
+
+[Tableau Public visualization](https://public.tableau.com/app/profile/viktoria.zetko/viz/Healthcare-CRM-Sales/A_Accounts)
+
 # Business Questions
 
 # Dataset Description
