@@ -128,7 +128,9 @@ ALTER TABLE public.opportunity_view
 
 # Tableau Data Modeling
 
-Opportunities&Sales Performance
+![datamodeling](https://github.com/user-attachments/assets/ed0e04fb-bce5-4662-8da1-cb26e9202458)
+
+
 
 # Tableau Dashboard Report Previews
 
