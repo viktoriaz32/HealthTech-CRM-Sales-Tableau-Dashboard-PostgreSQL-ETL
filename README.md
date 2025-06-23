@@ -15,6 +15,18 @@ Links:
 
 # Business Questions
 
+The business questions were asked by the managers and decision-makers of the fictional HealthTech company for the years 2023 and 2024.
+
+## Accounts Dashboard
+
+* How many accounts are we managing, and how much are they worth?
+* How are accounts and sales distributed across regions?
+* Which account types or segments drive the most revenue?
+* Who are our top-performing accounts?
+
+## Activity and Engagement Dashboard
+## Opportunity and Sales Performance Dashboard
+
 # Dataset Description
 
 All data in this dataset is fictional and does not represent any real persons, institutions, events, or similar entities.
