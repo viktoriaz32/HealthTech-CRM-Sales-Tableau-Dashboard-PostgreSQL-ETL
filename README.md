@@ -1,4 +1,4 @@
-# HealthTech-CRM-Sales-Dashboard
+# HealthTech-CRM-Sales-Dashboard-PostgreSQL-ETL
 Data similar to Salesforce CRM formats is generated in Python, cleaned and prepared using PostgreSQL, and visualized in Tableau as interactive CRM sales dashboards.
 
 Tools: Python, PostgreSQL, Tableau
